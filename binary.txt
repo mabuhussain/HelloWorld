@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5CFC-B1ED
+
+ Directory of C:\Users\mabuh\Desktop\Java Project
+
+03-02-2019  19:41    <DIR>          .
+03-02-2019  19:41    <DIR>          ..
+03-02-2019  19:41                 0 binary.txt
+03-02-2019  18:44               674 Hello.class
+03-02-2019  11:44               137 Hello.Java
+03-02-2019  12:49               494 index.html
+03-02-2019  12:48               446 readme.txt
+               5 File(s)          1,751 bytes
+               2 Dir(s)  757,250,007,040 bytes free
